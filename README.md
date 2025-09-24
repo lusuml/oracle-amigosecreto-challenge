@@ -2,11 +2,11 @@
 
 ### Descripción
 
-Aplicación web para organizar sorteos de "Amigo Secreto". Permite agregar nombres, sortear aleatoriamente y mostrar los resultados.
+Aplicación web para organizar sorteos de "Amigo Secreto". Permite agregar nombres, sortear aleatoriamente y mostrar los resultados. La aplicación incluye validaciones para asegurar que los datos ingresados sean correctos y proporciona mensajes de error claros en caso de problemas.
 
 ### Funcionalidades
 
-- **Agregar Participantes:** Añade nombres a la lista.
+- **Agregar Participantes:** Añade nombres a la lista, verificando que no haya nombres repetidos.
 - **Realizar Sorteo:** Ejecuta el sorteo aleatorio.
 - **Mostrar Resultados:** Muestra las parejas del sorteo.
 
